@@ -1,0 +1,183 @@
+body{
+    background-color: black;
+}
+nav{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-brand{
+    font-family:'Dancing Script', cursive;
+}
+h1.menu{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    color: orange;
+    font-size: 70px; 
+}
+h5.menu{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 13px;
+}
+h1.dishes{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    color: orange;
+    font-size: 40px;
+    border-bottom: 2px solid orange;
+}
+p.dishes{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 18px;
+}
+p.price{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+}
+#photo{
+    width: 300;
+    height: 300px;
+}
+h1.res{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    color:white;
+    font-size: 50px; 
+    border-bottom: 2px solid white;
+    width: 270px;
+    height: 70px;
+    margin: auto;
+}
+#reser{
+    text-align: center;
+}
+button{
+    width: 500px;
+    font-family: 'Raleway', sans-serif;
+}
+.home {
+    background-attachment: fixed;
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    background-image: url(https://astanait.edu.kz/wp-content/uploads/2020/11/DSC01570-scaled.jpg); 
+}
+h1.wel{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    color:white;
+    font-size: 50px; 
+    border-bottom: 2px solid white;
+    width: 330px;
+    height: 130px;
+    margin: auto;
+}
+.about{
+    background-color: white;
+  }
+h1.ab{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    color: orange;
+    font-size: 50px; 
+}
+p.ab{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 13px;}
+footer{
+    text-align: center;
+}
+#iconph{
+width: 75x;
+height: 75px;
+}
+h1.con{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    color: orange;
+    font-size: 35px;
+    border-bottom: 2px solid orange;
+    width: 250px;
+    height: 50px;
+    margin: auto;
+}
+p.con{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 13px;
+}
+.container#smp {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img.smp {
+    width: 280px;
+    height: 240px;
+    margin: auto;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    transition: all 0.5s;
+}
+
+img.smp:hover {
+    transform: scale(1.1);
+}
+p.card-text{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    color: orange;
+    font-size: 30px;
+}
+p.ct2{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color:black;
+    font-size:15px;
+}
+h1.bitm{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    color: white;
+    font-size: 50px;
+    border-bottom: 2px solid white;
+    width: 300px;
+    height: 70px;
+    margin: auto;
+}
+p.bitm{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: orange;
+    font-size: 13px;
+}
+a{
+    color:white;
+}
+.card{
+    margin: auto;
+}
+#discounts{
+    background-color: black;
+}
+h1.sp{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    color: white;
+    font-size: 50px;
+    border-bottom: 2px solid white;
+    width: 370px;
+    height: 80px;
+    margin: auto;
+}
